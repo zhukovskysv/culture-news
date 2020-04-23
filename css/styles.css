@@ -8,8 +8,7 @@
   font-weight: 900;
   font-display: swap;
   src: local(""),
-    url("../fonts/playfair-display-v20-latin_cyrillic-900.woff2")
-      format("woff2"),
+    url("../fonts/playfair-display-v20-latin_cyrillic-900.woff2") format("woff2"),
     url("../fonts/playfair-display-v20-latin_cyrillic-900.woff") format("woff");
 }
 
@@ -157,7 +156,7 @@ a {
   padding-bottom: 48px;
 
   background-color: var(--black);
-  background-image: url("/img/foto.jpg");
+  background-image: url("../img/foto.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -191,7 +190,7 @@ a {
   width: 55px;
   height: 55px;
 
-  background-image: url("/img/icon.svg");
+  background-image: url("../img/icon.svg");
   background-repeat: no-repeat;
   background-position: center center;
 
@@ -210,7 +209,7 @@ a {
   height: 25px;
 
   background-color: #ff7931;
-  background-image: url("/img/new.svg");
+  background-image: url("../img/new.svg");
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -399,7 +398,7 @@ a {
   width: 16px;
   height: 16px;
 
-  background-image: url("/img/arrow.svg");
+  background-image: url("../img/arrow.svg");
   background-repeat: no-repeat;
   background-position: 0 0;
 
